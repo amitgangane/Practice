@@ -1,5 +1,5 @@
 
-n = int(input())
+n = int(input("Enter the number: "))
 student_marks = {}
 for _ in range(n):
     data = input().split()
