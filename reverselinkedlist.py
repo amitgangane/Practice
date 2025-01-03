@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution(object):# initiliize a class
     def reverseList(self, head):
         prev = None
         current = head
